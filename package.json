@@ -20,5 +20,8 @@
     "url": "https://github.com/n0ctuary/hexlet-js/issues",
     "email": "noctuary440@gmail.com"
   },
-  "homepage": "https://github.com/n0ctuary/hexlet-js#readme"
+  "homepage": "https://github.com/n0ctuary/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
